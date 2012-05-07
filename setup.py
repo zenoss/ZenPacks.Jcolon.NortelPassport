@@ -5,7 +5,7 @@
 NAME = "ZenPacks.Jcolon.NortelPassport"
 VERSION = "1.0"
 AUTHOR = "Jonathan Colon"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Jcolon']
 PACKAGES = ['ZenPacks', 'ZenPacks.Jcolon', 'ZenPacks.Jcolon.NortelPassport']
 INSTALL_REQUIRES = []
